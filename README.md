@@ -1,250 +1,357 @@
 <div align="center">
 
-```
-██████╗ ██╗██╗   ██╗██╗   ██╗███████╗██╗  ██╗
-██╔══██╗██║╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
-██████╔╝██║ ╚████╔╝ ██║   ██║███████╗███████║
-██╔═══╝ ██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
-██║     ██║   ██║   ╚██████╔╝███████║██║  ██║
-╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=PIYUSH%20PANDEY&fontSize=70&color=0:0D0D0D,100:0D0D0D&stroke=00D9FF&strokeWidth=2&fontColor=00D9FF&animation=fadeIn&fontAlignY=55&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Footballer&descAlignY=75&descSize=16&descColor=ffffff"/>
 
-# Piyush Pandey
-### AI Full Stack Developer · Builder · Footballer
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Initializing+Piyush+Pandey+v2.0...;AI+Developer+%40+Antbox+%5BACTIVE%5D;Shipped+to+32%2C000+users.+Zero+crashes.;RedBull+Four2Score+Finalist+%E2%9A%BD;Building+the+future+from+Bhubaneswar+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Developer+%40+Antbox;Full+Stack+Engineer;ML+Pipeline+Builder;32%2C000+Users+%26+Zero+Crashes;RedBull+Four2Score+Finalist+⚽)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=piyushx17&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+<!-- STATUS BADGES -->
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00FF88?style=for-the-badge&labelColor=0D0D0D)
+![GPA](https://img.shields.io/badge/GPA-7.8%2F10-00D9FF?style=for-the-badge&labelColor=0D0D0D)
+![Year](https://img.shields.io/badge/KIIT_CSE-2023--2027-BF00FF?style=for-the-badge&labelColor=0D0D0D)
+![Views](https://komarev.com/ghpvc/?username=piyushx17&style=for-the-badge&color=00D9FF&labelColor=0D0D0D&label=PROFILE+VIEWS)
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-## `> whoami`
+## `⟩ SYSTEM BOOT`
 
-```python
-class Piyush:
-    name        = "Piyush Pandey"
-    location    = "Bhubaneswar, India 🇮🇳"
-    university  = "KIIT University — B.Tech CSE (2023–2027)"
-    gpa         = "7.8 / 10"
-    current     = "AI Developer Intern @ Antbox"
-    building    = ["LLM products", "RAG pipelines", "things that actually scale"]
-    contact     = "piyushoffical.r@gmail.com"
-
-    def life_philosophy(self):
-        return "Ship fast. Think deep. Play harder. ⚽"
+```
+╔══════════════════════════════════════════════════════════════╗
+║           PIYUSH PANDEY OS — KERNEL v3.0 LOADING            ║
+╠══════════════════════════════════════════════════════════════╣
+║  [██████████████████████████████████████] 100%              ║
+║                                                              ║
+║  > identity    : Piyush Pandey                               ║
+║  > handle      : @piyushx17                                  ║
+║  > class       : AI Full Stack Developer                     ║
+║  > base        : Bhubaneswar, India 🇮🇳                      ║
+║  > university  : KIIT University — B.Tech CSE               ║
+║  > internship  : AI Developer @ Antbox [ACTIVE]             ║
+║  > mission     : ship things that scale under pressure       ║
+║  > athletics   : RedBull Four2Score Finalist ⚽              ║
+║                                                              ║
+║  > booting modules...                                        ║
+║    ✓ AI_ENGINEERING    ✓ RAG_PIPELINES                       ║
+║    ✓ FULL_STACK        ✓ ML_PIPELINES                        ║
+║    ✓ LLM_ORCHESTRATION ✓ DATA_ANALYTICS                      ║
+║                                                              ║
+║  > ALL SYSTEMS OPERATIONAL.                                  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-## `> tech_stack --all`
+## `⟩ CORE IDENTITY`
+
+```python
+class PiyushPandey:
+
+    def __init__(self):
+        self.name         = "Piyush Pandey"
+        self.location     = "Bhubaneswar, India 🇮🇳"
+        self.university   = "KIIT University — B.Tech CSE (2023–2027)"
+        self.gpa          = 7.8
+        self.current_role = "AI Developer Intern @ Antbox"
+        self.stack        = ["LLMs", "RAG", "React", "Node", "Python", "PostgreSQL"]
+        self.athletics    = "RedBull Four2Score Finalist ⚽"
+        self.shipped      = "32,000+ users. Production. Zero crashes."
+
+    def philosophy(self):
+        return """
+        I don't build demos.
+        I build things that hold when 32,000 people
+        show up at the same time.
+        In code — and on the pitch.
+        """
+
+    def current_focus(self):
+        return [
+            "Agentic AI systems",
+            "LLM product engineering",
+            "RAG pipeline optimization",
+            "System design at scale",
+        ]
+
+    def not_found(self):
+        raise Exception("Tutorial-follower.exe not found on this machine.")
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## `⟩ TECH ARSENAL`
 
 <div align="center">
 
-**AI & LLM**
-
+### ◈ AI & LLM SYSTEMS
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00D9FF?style=for-the-badge&labelColor=0D0D0D)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-BF00FF?style=for-the-badge&labelColor=0D0D0D)
 
-**ML & Data Science**
-
+### ◈ ML & DATA SCIENCE
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Full Stack**
-
+### ◈ FULL STACK
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### ◈ DATABASES
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Data & BI**
-
+### ◈ DATA & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-**Languages**
-
+### ◈ LANGUAGES & DEVTOOLS
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
----
-
-## `> ls projects/`
-
-### 🏗️ CampusCore — Academic Management Platform
-> *The infrastructure KIIT never had. So I built it.*
-
-```
-Scale: 32,000+ simultaneous users
-Stack: React.js · Node.js · PostgreSQL · Socket.io
-Status: 🟢 Production Live
-```
-
-**The Problem:** KIIT had no central system. Section swaps happened on WhatsApp. Attendance tracking was manual chaos. 32,000 students, zero tooling.
-
-**What I Built:**
-- 🤖 **AI-powered roll number parser** — automated what used to be done by hand
-- 🔁 **Smart section-swap matchmaking** — paired students who wanted to swap sections, automatically
-- ⚠️ **Real-time attendance risk calculator** — flags students before it's too late
-- ⚡ **Queue-based atomic row-level DB locking** — 32,000 users hit the system simultaneously on allocation day. Zero race conditions. Zero crashes. Not once.
-
-> The hardest part wasn't the features. It was making it not fall over when everyone showed up at once.
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME/campuscore)
-[![Live](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel)](https://YOUR-CAMPUSCORE-LIVE-URL.com)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-### ⚽ FIFA Player Market Value Predictor
-> *Can a model scout better than a human? Let's find out.*
+## `⟩ PROJECT MAINFRAME`
 
+### 01 — CAMPUSCORE
 ```
-Dataset: 2,800 FIFA players · 6 value classes
-Accuracy: 84.9% cross-validated
-Stack: Python · scikit-learn · SMOTE · Streamlit
+╔─────────────────────────────────────────────────────────────╗
+│  🏗️  CAMPUSCORE — Academic Infrastructure at Scale          │
+│  STATUS: 🟢 PRODUCTION LIVE                                  │
+├─────────────────────────────────────────────────────────────┤
+│  Stack  : React.js · Node.js · PostgreSQL · Socket.io        │
+│  Scale  : 32,000+ simultaneous users                         │
+│  Result : Zero race conditions. Zero crashes. Ever.          │
+├─────────────────────────────────────────────────────────────┤
+│  FEATURES:                                                   │
+│  ◆ AI-powered roll number parser                            │
+│  ◆ Smart section-swap matchmaking engine                    │
+│  ◆ Real-time attendance risk calculator                     │
+│  ◆ Queue-based atomic row-level DB locking                  │
+├─────────────────────────────────────────────────────────────┤
+│  THE HARD PART:                                              │
+│  32,000 users hitting simultaneously on allocation day.     │
+│  Two students could claim the same seat at the same ms.     │
+│  Solved: atomic PostgreSQL row locks + request queue.       │
+│  Not in a tutorial. Designed from scratch.                  │
+╚─────────────────────────────────────────────────────────────╝
 ```
-
-**What I did:**
-- Built a 6-class market value classifier from scratch
-- Solved class imbalance using **SMOTE** — expanded dataset from 2,240 → 6,012 samples
-- Benchmarked **6 classifiers** via GridSearchCV (Random Forest, Gradient Boosting, SVM, and more)
-- Deployed a **Streamlit scouting UI** — non-technical users can predict player value instantly
-- Key predictors discovered: **Overall Rating, Age, Goals per Match**
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME/fifa-predictor)
-[![Live App](https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit)](https://YOUR-FIFA-APP.streamlit.app)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github)](https://github.com/piyushx17/campuscore)
+[![Live](https://img.shields.io/badge/LIVE_DEMO-00FF88?style=for-the-badge)](https://YOUR-CAMPUSCORE-LIVE-URL.com)
 
 ---
 
-### 📺 Netflix Content Analysis Dashboard
-> *8,000+ titles. One dashboard. Every answer.*
-
+### 02 — FIFA MARKET VALUE PREDICTOR
 ```
-Dataset: 8,000+ Netflix titles
-Stack: Power BI · DAX · Power Query
+╔─────────────────────────────────────────────────────────────╗
+│  ⚽  FIFA PLAYER MARKET VALUE PREDICTOR                      │
+│  STATUS: 🟢 DEPLOYED                                         │
+├─────────────────────────────────────────────────────────────┤
+│  Stack    : Python · scikit-learn · SMOTE · Streamlit        │
+│  Dataset  : 2,800 players · 6 value classes                 │
+│  Accuracy : 84.9% cross-validated                           │
+├─────────────────────────────────────────────────────────────┤
+│  ◆ SMOTE: 2,240 → 6,012 samples (class imbalance fix)      │
+│  ◆ Benchmarked 6 classifiers via GridSearchCV              │
+│  ◆ Key features: Overall Rating · Age · Goals/Match        │
+│  ◆ Streamlit scouting UI for non-technical users           │
+╚─────────────────────────────────────────────────────────────╝
 ```
-
-**What I built:**
-- Interactive Power BI dashboard covering genre trends, country-wise production, rating distributions
-- 10+ custom DAX measures with dynamic slicers for deep-dive filtering
-- Designed for storytelling — every visual answers a real business question
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME/netflix-dashboard)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github)](https://github.com/piyushx17/fifa-predictor)
+[![Live](https://img.shields.io/badge/LIVE_APP-FF4B4B?style=for-the-badge&logo=streamlit)](https://YOUR-FIFA-APP.streamlit.app)
 
 ---
 
-## `> cat experience.log`
+### 03 — NETFLIX CONTENT INTELLIGENCE DASHBOARD
+```
+╔─────────────────────────────────────────────────────────────╗
+│  📺  NETFLIX CONTENT ANALYSIS DASHBOARD                      │
+│  STATUS: 🟢 COMPLETE                                         │
+├─────────────────────────────────────────────────────────────┤
+│  Stack   : Power BI · DAX · Power Query                      │
+│  Dataset : 8,000+ Netflix titles                            │
+├─────────────────────────────────────────────────────────────┤
+│  ◆ Genre dominance trends · Country-wise production        │
+│  ◆ Rating distribution analysis                             │
+│  ◆ 10+ custom DAX measures · dynamic slicers               │
+│  Built to answer questions — not just display data.         │
+╚─────────────────────────────────────────────────────────────╝
+```
+[![Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github)](https://github.com/piyushx17/netflix-dashboard)
 
-### 🤖 Antbox — AI Developer Intern *(May 2026 – Present)*
-
-Building LLM-integrated products at the frontier of what AI can do in production:
-- Architecting **RAG pipelines** and agentic workflows using Claude, Claude Code, and Claude Cowork
-- Automating code generation and intelligent task pipelines for real products
-- Designing and shipping **AI pipeline architectures** in cross-functional team environments
-
-### 📊 Deloitte Australia — Data Analytics Virtual Intern *(Nov 2025)*
-*(via Forage)*
-- Applied real analytical methods on enterprise datasets
-- Performed anomaly detection and forensic business reporting
-- The kind of work that actually shows up in boardrooms
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## `> cat certifications.txt`
+## `⟩ ACTIVE MISSION LOG`
 
 ```
-✅  100 Days of Code: Complete Python Pro Bootcamp         — Udemy
-✅  Mastering DSA in C & C++                               — Udemy
-✅  Data Analysis: SQL, Tableau, Power BI, Excel           — Udemy
+╔══════════════════════════════════════════════════════════════╗
+║  🤖  ANTBOX — AI DEVELOPER INTERN  [May 2026 → Present]     ║
+╠══════════════════════════════════════════════════════════════╣
+║  [✓] LLM-integrated products built from scratch             ║
+║  [✓] RAG pipelines architected for production               ║
+║  [✓] Agentic workflows: Claude + Claude Code + Cowork       ║
+║  [✓] Automated code generation pipelines                    ║
+║  [✓] AI architectures shipped with cross-functional teams   ║
+║  STATUS: MISSION ACTIVE ██████████ 100%                     ║
+╠══════════════════════════════════════════════════════════════╣
+║  📊  DELOITTE AUSTRALIA — DATA ANALYTICS  [Nov 2025]        ║
+╠══════════════════════════════════════════════════════════════╣
+║  [✓] Enterprise dataset analysis                            ║
+║  [✓] Anomaly detection for forensic reporting               ║
+║  [✓] Business intelligence for boardroom decisions          ║
+║  STATUS: MISSION COMPLETE ██████████ 100%                   ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## `⟩ FIELD INTELLIGENCE — THE ATHLETE MODULE`
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║   ⚽  FOOTBALL: NOT A HOBBY. AN OPERATING SYSTEM.           ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   🏟️  Bhubaneswar League   → KIIT Representative            ║
+║   🎓  AIU Games            → University National Level      ║
+║   🇮🇳  Khelo India          → National Platform              ║
+║   🐂  RedBull Four2Score   → FINALIST                       ║
+║       (India's elite street football. Real stakes.)         ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║   SKILLS TRANSFERRED TO ENGINEERING:                        ║
+║   ◆ Pressure performance  →  shipping under deadlines       ║
+║   ◆ Reading systems       →  debugging architecture         ║
+║   ◆ Consistency > talent  →  daily compounding             ║
+║   ◆ Team communication    →  cross-functional collab        ║
+║                                                              ║
+║   "The pitch and the terminal teach the same lesson:        ║
+║    stay composed, find the gap, execute precisely."         ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## `> cat life_outside_the_terminal.sh`
+## `⟩ DIPLOMATIC INTELLIGENCE — THE MUN MODULE`
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║   🎙️  MODEL UNITED NATIONS — DELEGATE → ARCHITECT           ║
+╠══════════════════════════════════════════════════════════════╣
+║   KIITMUN 2023  →  Verbal Mention                           ║
+║   HITMUN 2024   →  Special Mention 🏆                       ║
+║   KIITMUN 2025  →  Team Academics Lead                      ║
+║                    (built the system others competed in)    ║
+║                                                              ║
+║   Arc: Competitor → Award Winner → System Designer          ║
+║   MUN = data-backed arguments under pressure in public.     ║
+║   Sounds like every technical design meeting. Ever.         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## `⟩ GITHUB STATS CORE`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyushx17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=BF00FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushx17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&text_color=ffffff"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushx17&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=00D9FF&ring=BF00FF&fire=00FF88&currStreakLabel=00D9FF"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## `⟩ ACHIEVEMENT TIMELINE`
+
+```
+2023 ──────────────────────────────────────────────── 2026+
+
+[2023] ◆ Joined KIIT University — B.Tech CSE
+       ◆ KIITMUN 2023 — Verbal Mention 🎙️
+
+[2024] ◆ HITMUN 2024 — Special Mention 🏆
+       ◆ KIIT @ Bhubaneswar Football League ⚽
+       ◆ KIIT @ AIU Games (national level) ⚽
+
+[2025] ◆ KIITMUN 2025 — Team Academics Lead
+       ◆ Deloitte Australia Data Analytics Internship
+       ◆ CampusCore → production → 32,000 students
+       ◆ KIIT @ Khelo India ⚽
+
+[2026] ◆ RedBull Four2Score — FINALIST 🐂⚽
+       ◆ FIFA ML Predictor → 84.9% accuracy
+       ◆ Netflix Dashboard → 8,000+ titles
+       ◆ AI Developer Intern @ Antbox [ACTIVE] 🤖
+
+[NEXT] ◆ ???  (watch this space)
+```
+
+---
+
+## `⟩ TERMINAL CONTACT`
+
+<div align="center">
 
 ```bash
-#!/bin/bash
-# Warning: this section is not optional. It's the most important part.
-
-echo "Some people close the laptop and scroll. I lace up and run."
+$ ping piyush --all-channels
 ```
 
-### ⚽ Football — Not a Hobby. A Discipline.
+[![Email](https://img.shields.io/badge/GMAIL-piyushoffical.r%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:piyushoffical.r@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Piyush_Pandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://linkedin.com/in/YOUR-PROFILE)
+[![GitHub](https://img.shields.io/badge/GITHUB-piyushx17-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/piyushx17)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-00D9FF?style=for-the-badge&labelColor=0D0D0D)](https://YOUR-PORTFOLIO.com)
 
-I don't just play football. I've **competed** — and earned it.
-
-| Tournament | Achievement |
-|---|---|
-| 🏟️ Bhubaneswar League | Represented KIIT |
-| 🎓 AIU Games | University-level national competition |
-| 🇮🇳 Khelo India | National platform. Real stakes. |
-| 🐂 **RedBull Four2Score** | **Finalist** — one of the most competitive street football tournaments in India |
-
-> RedBull Four2Score isn't a college tournament. It draws serious players. Making the finals means something.
-
-Football taught me what no classroom could:
-- How to **perform under pressure** when it actually matters
-- How to **read a system** and find gaps in it (sounds like debugging, right?)
-- That **consistency beats talent** when talent doesn't show up
-
-The same mindset I carry into code — stay calm, find the opening, execute.
-
----
-
-### 🎙️ Model United Nations — From Delegate to Architect
-
-MUN taught me to argue a position I might not agree with, with data, under time pressure, in front of a room. Sound familiar? That's basically every technical design meeting.
-
-| Conference | Role / Award |
-|---|---|
-| KIITMUN 2023 | Verbal Mention |
-| HITMUN 2024 | **Special Mention** |
-| KIITMUN 2025 | **Team Academics Lead** — built the academic framework for the entire conference |
-
-By 2025 I wasn't just competing. I was designing the system others competed in.
-
----
-
-## `> cat github_stats.md`
-
-<div align="center">
-
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushx17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushx17&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushx17&theme=tokyonight&hide_border=true)
+```bash
+$ response_time --expected
+> Usually within 24 hours.
+```
 
 </div>
 
----
-
-## `> ping me`
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:BF00FF,100:00FF88&height=120&section=footer&text=Build.+Ship.+Compete.&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushoffical.r@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyushx17)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO.com)
-
----
 
 *"I build things that hold under pressure — in code and on the pitch."*
 
-**— Piyush Pandey**
+**— Piyush Pandey · piyushx17**
 
 </div>
